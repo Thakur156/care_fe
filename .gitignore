@@ -15,7 +15,6 @@
 
 # misc
 .DS_Store
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -30,7 +29,6 @@ build
 .swp
 stats.json
 public/build-meta.json
-.vscode/*
 !.vscode/launch.json
 src/supportedBrowsers.ts
 
@@ -72,3 +70,4 @@ public/_headers
 
 namespaceMapping.json
 dump.rdb
+config.bat
